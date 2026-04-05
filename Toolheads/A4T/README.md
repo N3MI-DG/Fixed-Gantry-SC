@@ -4,7 +4,7 @@
 
 All of the A4T cowl variants have been provided, but depending on the cowl variant, some may not be suitable.
 
-The Rapido UHV variant in particular has the hotend fan significantly blocked by the dock.
+The Dragon/Rapido UHF variant in particular has the hotend fan significantly blocked by the dock.
 
 ## Printing
 
