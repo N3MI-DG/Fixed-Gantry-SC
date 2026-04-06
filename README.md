@@ -32,3 +32,5 @@ Print with Typical Voron Recommended settings
 [DraftShift Design](https://github.com/DraftShift) - StealthChanger
 
 [hartk1213](https://github.com/hartk1213) - Anthead and Umbilical plate aesthetics.
+
+[Armchair-Heavy-Industries](https://github.com/Armchair-Heavy-Industries) - A4T
