@@ -1,11 +1,13 @@
 
 # Fixed Gantry StealthChanger Mod
 
+![Docked](images/Docked.png)
+
 ## Overview
 
-This mod adds StealthChanger capability to fixed gantry printers. It uses a custom dock design that mounts directly to the printer frame and uses a ramping system to mount the toolhead. 
+This mod adds StealthChanger capability to fixed gantry printers. It uses a custom dock design that mounts directly to the printer frame and uses a ramping system to mount the toolhead.
 
-The ramping is broken into two actions: 
+The ramping is broken into two actions:
 
 1. The tool runs into the dock in the Y direction, lifting it partially and aligning the screws that are on the tool to the dock.
 2. The tool then gets shoved in the X direction to fully lift the tool from the shuttle and engage with the dock.
@@ -28,4 +30,5 @@ Print with Typical Voron Recommended settings
 ## Credits
 
 [DraftShift Design](https://github.com/DraftShift) - StealthChanger
+
 [hartk1213](https://github.com/hartk1213) - Anthead and Umbilical plate aesthetics.
