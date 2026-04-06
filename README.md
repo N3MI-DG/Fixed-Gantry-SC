@@ -24,3 +24,8 @@ Print with Typical Voron Recommended settings
 * `Solid Top/Bottom Layers` - 5
 * `Layer Height` - 0.2mm
 * `Supports` - Not required, models have built in supports.
+
+## Credits
+
+[DraftShift Design](https://github.com/DraftShift) - StealthChanger
+[hartk1213](https://github.com/hartk1213) - Anthead and Umbilical plate aesthetics.
