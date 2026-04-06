@@ -100,3 +100,32 @@ pickup_gcode:
   ROUNDED_G0 Y={tool.params_safe_y} F={fast} D=20
   ROUNDED_G0 D=0
 ```
+
+## Z Tilt
+
+The Z tilt positions will need to be adjusted because of the tool's docked position. This is an example of what I am using on my 300 Trident.
+
+```
+[z_tilt]
+z_positions:
+  -50, 18
+  150, 348
+  350, 18
+points:
+  20, 25
+  152.5, 250
+  285, 25
+```
+
+### Macro to remove tool during Z tilt (Cartographer Only)
+
+```
+[gcode_macro Z_TILT_ADJUST]
+rename_existing: ZZ_TILT_ADJUST
+gcode:
+  {% if printer.toolchanger.tool_number != -1 %}
+    UNSELECT_TOOL
+  {% endif %}
+
+  ZZ_TILT_ADJUST
+  ```
