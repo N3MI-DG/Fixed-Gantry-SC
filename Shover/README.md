@@ -3,7 +3,7 @@
 
 ## Printing
 
-Print the shover version for the variant of CNC shuttle you have using typical voron settings.
+Print the shover version for the variant of CNC shuttle you have using typical Voron settings.
 
 ## BOM
 
@@ -54,4 +54,4 @@ Secure the shover to the CNC shuttle using 2 M3x8 BHCS screws with washers throu
 
 ## Testing
 
-After installation, chack that the shover fits neatly in to the backplate of the tool. There should not be any friction between the tool and Shover. If it is too loose without the PTFE, try adding some. If it is too tight with the PTFE, try shaving the ptfe slightly.
+After installation, chack that the shover fits neatly in to the backplate of the tool. There should not be any friction between the tool and Shover. If it is too loose without the PTFE, try adding some. If it is too tight with the PTFE, try shaving the PTFE slightly.
